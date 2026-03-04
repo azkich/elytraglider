@@ -1,0 +1,6 @@
+name: ElytraGlider
+main: ru.example.elytraglider.ElytraGliderPlugin
+version: 1.0.0
+api-version: "1.21"
+author: azkich
+description: Manages glider component on elytra based on dimension (glider removed in End, restored elsewhere)
